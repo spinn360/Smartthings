@@ -1,6 +1,6 @@
 /**
- *  Brightswitch Name, Motion, Temp, and Light Sensor
- *
+ *  Brightswitch Name, Motion, Temp, and Light Sensor, switch name, software version, a modified motion sensor from Exarlabs
+ *   Credit to original SmartApp/deviceHandler developed by ExarLabs, atiyka, and Attila Szasz
  *  Copyright 2018 Shawn McClung
  *
  *  Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except
