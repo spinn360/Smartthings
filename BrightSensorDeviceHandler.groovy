@@ -105,7 +105,7 @@ def parse(Map params) {
 			sendEvent(name: "sf", value: sf)
 		}
     if(temp != null){
-    def newtemp = temp.toInteger() -6
+    def newtemp = temp.toInteger()
     log.debug "Temp $temp changed to newtemp $newtemp"
     sendEvent(name:"temp", value: newtemp)
 }
